@@ -1,7 +1,7 @@
 # 💧 Drink Water Reminder
 
 <p align="center">
-  <img src="banner.png" width="600" alt="Banner">
+  <img src="banner.png" width="300" alt="Banner">
 </p>
 
 A simple yet effective Python application that reminds you to stay hydrated by sending periodic desktop notifications.
